@@ -1,5 +1,5 @@
 # PolyCoursesBot - ReadMe
-A Bot to provide information on available polytechnic courses based on the user's ELR2B2 inputs. The bot is developed to enhance user's interaction and facilitate user's queries of polytechnic courses in Singapore.
+A Bot to provide information on available polytechnic courses in Singapore based on the user's ELR2B2 inputs. The bot is developed to enhance user's interaction and facilitate user's queries of polytechnic courses in Singapore.
 
 ## Data Source
 
